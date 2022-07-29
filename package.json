@@ -1,0 +1,19 @@
+{
+  "name": "picdownloader",
+  "version": "1.0.0",
+  "description": "A bulk download menager",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": [
+    "Downloader",
+    "Pictures"
+  ],
+  "author": "Felipe Aguiar",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2"
+  }
+}
